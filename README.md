@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abolfazl Mohammady</h1>
 <h3 align="center">A passionate Backend Developer from Iran</h3>
 
+<h2 align="center">Welcome to my GitHub!</h2>
+<marquee>Backend Developer | Python Enthusiast | Always Learning</marquee>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=0e75b6&style=flat" alt="AbolfazlMohammady" /> </p>
 
 - 🔭 I’m currently working on [My Django Project](https://github.com/AbolfazlMohammady/MyDjangoProject)
@@ -9,14 +12,14 @@
 
 - 💬 Ask me about **Django, Python, Backend Development**
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **َabolfazlking22@gmail.com**
 
 - ⚡ Fun fact **I love playing chess and reading about AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="your-instagram-profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abolfazl-mohammadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="abolfazl-mohammadie" height="30" width="40" /></a>
+<a href="https://instagram.com/abolfazl mohammady79" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="abolfazl mohammady79" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
