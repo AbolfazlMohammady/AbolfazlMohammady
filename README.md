@@ -25,7 +25,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https:abolfazl-mohammadi-990bb3320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<a href="https://linkedin.com/in/abolfazl-mohammadi-990bb3320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
 <a href="https://instagram.com/abolfazl.mohammadyi" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" /></a>
