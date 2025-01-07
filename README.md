@@ -87,9 +87,6 @@
     <td>
       <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=darkhub&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophy" />
     </td>
-    <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=AbolfazlMohammady&theme=github" alt="Activity Graph" />
-    </td>
   </tr>
   <tr>
     <td>
