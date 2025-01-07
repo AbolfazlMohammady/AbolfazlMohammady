@@ -44,14 +44,43 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AbolfazlMohammady" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="AbolfazlMohammady" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+<h3 align="center">📈 Account Activity:</h3>
+<table align="center">
+<tr>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlMohammady&theme=monokai" alt="Profile Details" />
+</td>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbolfazlMohammady&theme=monokai" alt="Most Used Languages" />
+</td>
+</tr>
+<tr>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbolfazlMohammady&theme=monokai" alt="Repos Per Language" />
+</td>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbolfazlMohammady&theme=monokai" alt="Stats Card" />
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
