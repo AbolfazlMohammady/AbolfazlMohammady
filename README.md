@@ -77,12 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-
-
-<h3 align="center">🛠️ Contribution Graph:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 <h3 align="center">📈 Updated Activity:</h3>
 <table align="center">
   <tr>
