@@ -8,6 +8,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="AbolfazlMohammady" />
 </p>
+<!-- Space-Themed Wakatime Stats -->
+<h3 align="center">🛰️ Space-Time Productivity:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbolfazlMohammady&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
+</p>
 
 <!-- Highlighted Fun Section -->
 <h3 align="center">🔥 Fun Fact About Me:</h3>
