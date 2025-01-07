@@ -109,7 +109,8 @@
       <img src="https://wakatime.com/badge/user/xxx/workspace/yyy.svg" alt="Wakatime Stats" /> <!-- Replace with your Wakatime badge -->
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbolfazlMohammady&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+      <img src="https://wakatime.com/badge/user/your_wakatime_username/workspace/your_workspace_id.svg" alt="Wakatime Stats" />
+
     </td>
   </tr>
 </table>
@@ -117,5 +118,6 @@
 ---
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AbolfazlMohammady&theme=github" alt="Activity Graph" />
+  <img src="https://wakatime.com/badge/user/your_wakatime_username.svg" alt="Wakatime Stats" />
+
 </p>
