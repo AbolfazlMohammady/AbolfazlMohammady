@@ -83,10 +83,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=monokai" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=monokai" alt="GitHub Stats" />
 </p>
 <h3 align="center">📈 Updated Activity:</h3>
 <table align="center">
