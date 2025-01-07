@@ -1,7 +1,4 @@
-<!-- Cosmic Design Footer -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlMohammady&theme=solarized_dark" alt="Profile Details" />
-</p>
+
 <!-- Animated Header -->
 <h1 align="center">🌟 Welcome to Abolfazl Mohammady's Profile 🌟</h1>
 <p align="center">
@@ -87,12 +84,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbolfazlMohammady&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
 </p>
+<!-- Cosmic Design Footer -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlMohammady&theme=solarized_dark" alt="Profile Details" />
+</p>
 <h3 align="center">📈 Updated Activity:</h3>
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlMohammady&theme=monokai" alt="Profile Details" />
-    </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbolfazlMohammady&theme=monokai" alt="Most Used Languages" />
     </td>
