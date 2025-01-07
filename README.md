@@ -1,3 +1,23 @@
+<!-- Header with Fire Animation -->
+<div style="text-align: center; position: relative;">
+  <h1 style="font-size: 3rem; color: #FFA500; text-shadow: 0 0 20px rgba(255, 69, 0, 0.8), 0 0 30px rgba(255, 140, 0, 0.6);">
+    🔥 Welcome to Abolfazl Mohammady's Profile 🔥
+  </h1>
+  <div style="position: absolute; top: 100%; left: 50%; transform: translateX(-50%);">
+    <svg width="400" height="100">
+      <filter id="fire">
+        <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="3" result="noise"/>
+        <feDisplacementMap in="SourceGraphic" in2="noise" scale="30" xChannelSelector="R" yChannelSelector="G"/>
+      </filter>
+      <rect width="400" height="100" fill="orange" style="filter: url(#fire); mix-blend-mode: screen; opacity: 0.8;" />
+    </svg>
+  </div>
+</div>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abolfazl+Mohammady!;A+Passionate+Backend+Developer+from+Iran;Mastering+Django%2C+REST+API%2C+and+Python!;Always+Learning+and+Building+Amazing+Projects!;Let's+Collaborate+and+Innovate+Together!+%F0%9F%8C%8E" alt="Typing SVG">
+</p>
 
 <!-- Animated Header -->
 <h1 align="center">🌟 Welcome to Abolfazl Mohammady's Profile 🌟</h1>
