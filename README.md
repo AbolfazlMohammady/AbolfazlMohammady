@@ -30,6 +30,16 @@
   📧 Reach me at: <strong>abolfazlking22@gmail.com</strong>
 </p>
 
+<!-- Galaxy Badge Section -->
+<h3 align="center">🌟 Galactic Achievements:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophy" />
+</p>
+<!-- Cosmic Design Footer -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlMohammady&theme=solarized_dark" alt="Profile Details" />
+</p>
+
 <h3 align="center">A passionate Backend Developer from Iran</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+Python+Enthusiast+%7C+Lifelong+Learner;Backend+Skills:+Django%2C+REST+API%2C+SQL;Improving+Skills+Every+Day!" alt="Typing SVG">
@@ -78,23 +88,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<!-- Space-Themed Wakatime Stats -->
-<h3 align="center">🛰️ Space-Time Productivity:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbolfazlMohammady&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
-</p>
-<!-- Cosmic Design Footer -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlMohammady&theme=solarized_dark" alt="Profile Details" />
-</p>
 <h3 align="center">📈 Updated Activity:</h3>
 <table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbolfazlMohammady&theme=monokai" alt="Most Used Languages" />
-    </td>
-  </tr>
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbolfazlMohammady&theme=monokai" alt="Repos Per Language" />
@@ -105,11 +100,6 @@
   </tr>
 </table>
 
-<!-- Galaxy Badge Section -->
-<h3 align="center">🌟 Galactic Achievements:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophy" />
-</p>
 <h3 align="center">📌 Additional Stats:</h3>
 <table align="center">
     <td>
