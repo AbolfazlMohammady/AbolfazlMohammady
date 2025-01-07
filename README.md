@@ -11,13 +11,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" alt="Python" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="100" alt="Django" />
-</div>
-
----
-
 - 🔭 I’m currently working on [My Django Project](https://github.com/AbolfazlMohammady/MyDjangoProject)
 
 - 🌱 I’m currently mastering **Advanced Django and REST API**
@@ -42,21 +35,11 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
-  </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> </a>
 </p>
 
 ---
@@ -66,15 +49,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AbolfazlMohammady" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="AbolfazlMohammady" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Electric Sparks" width="200">
-</div>
