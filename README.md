@@ -78,16 +78,18 @@
   </a>
 </p>
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<!-- Dark and Spooky GitHub Stats Section -->
+<h3 align="center" style="color: #FF0000; font-family: 'Creepster', cursive;">📊 Dark GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=monokai" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=monokai" alt="GitHub Stats" />
 </p>
+
 <h3 align="center">📈 Updated Activity:</h3>
 <table align="center">
   <tr>
