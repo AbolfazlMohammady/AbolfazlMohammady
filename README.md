@@ -1,42 +1,40 @@
-<!-- Animated Header -->
-<h1 align="center">🌟 Welcome to Abolfazl Mohammady's Profile 🌟</h1>
+<!-- Animated Header with Spooky Theme -->
+<h1 align="center" style="font-family: 'Creepster', cursive; color: #FF6F00; text-shadow: 2px 2px 5px #000;">🦇 Welcome to Abolfazl Mohammady's Haunted Profile 🦇</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abolfazl+Mohammady!;A+Passionate+Backend+Developer+from+Iran;Mastering+Django%2C+REST+API%2C+and+Python!;Always+Learning+and+Building+Amazing+Projects!;Let's+Collaborate+and+Innovate+Together!+%F0%9F%8C%8E" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abolfazl+Mohammady!;A+Spooky+Backend+Developer+from+Iran;Mastering+Django%2C+REST+API%2C+and+Python!;Crafting+Horror+and+Tech+from+the+Shadows!;Let's+Collaborate+and+Summon+Greatness!%F0%9F%91%8D" alt="Typing SVG">
 </p>
 
 <!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="AbolfazlMohammady" />
+  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=purple&style=flat-square" alt="AbolfazlMohammady" />
 </p>
 
-<!-- Highlighted Fun Section -->
-<h3 align="center">🔥 Fun Fact About Me:</h3>
-<p align="center">🎮 I enjoy playing chess, solving puzzles, and diving into AI innovations 🚀</p>
+<!-- Spooky Fun Fact Section -->
+<h3 align="center" style="color: purple; font-family: 'Creepster', cursive;">🕸️ Spooky Fact About Me:</h3>
+<p align="center" style="color: #FF6F00; font-family: 'Creepster', cursive;">🎮 I enjoy playing chess, solving puzzles, and exploring the eerie corners of AI innovations 👻</p>
 
-<!-- Cool Animated Contribution Graph -->
-<h3 align="center">📈 Contribution Activity:</h3>
+<!-- Cool Animated Contribution Graph with Dark Vibes -->
+<h3 align="center" style="color: #FF6F00; font-family: 'Creepster', cursive;">📈 Contribution Activity:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<!-- Profile Highlights -->
-<h3 align="center">✨ What I'm Up To:</h3>
-<p align="center">
-  🌱 Mastering <strong>Advanced Django</strong> and <strong>REST API</strong> <br>
-  🔭 Building my latest <strong>Django Project</strong> <br>
+<!-- Profile Highlights with a Horror Twist -->
+<h3 align="center" style="color: #FF6F00; font-family: 'Creepster', cursive;">👻 What I'm Up To:</h3>
+<p align="center" style="color: #FF6F00;">
+  🌱 Summoning the powers of <strong>Advanced Django</strong> and <strong>REST API</strong> <br>
+  🔭 Crafting my latest <strong>Dark Django Project</strong> <br>
   💬 Ask me anything about <strong>Django</strong>, <strong>Python</strong>, and <strong>Backend Development</strong> <br>
-  📧 Reach me at: <strong>abolfazlking22@gmail.com</strong>
+  📧 Send me a raven at: <strong>abolfazlking22@gmail.com</strong>
 </p>
 
-<h3 align="center">A passionate Backend Developer from Iran</h3>
+<h3 align="center" style="color: purple; font-family: 'Creepster', cursive;">A Haunted Backend Developer from Iran</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+Python+Enthusiast+%7C+Lifelong+Learner;Backend+Skills:+Django%2C+REST+API%2C+SQL;Improving+Skills+Every+Day!" alt="Typing SVG">
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=blue&style=flat-square" alt="AbolfazlMohammady" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+Python+Sorcerer+%7C+Lifelong+Learner;Backend+Skills:+Django%2C+REST+API%2C+SQL;Improving+Skills+Every+Night!" alt="Typing SVG">
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<!-- Contact & Social Links -->
+<h3 align="center" style="color: #FF6F00;">Connect with me through the shadows:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/abolfazl-mohammadi-990bb3320" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
@@ -46,7 +44,8 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<!-- Languages and Tools with Dark, Spooky Style -->
+<h3 align="center" style="color: #FF6F00;">🛠️ Tools of the Dark Trade:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -65,7 +64,8 @@
   </a>
 </p>
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<!-- Profile Summary with Dark and Spooky Stats -->
+<h3 align="center" style="color: #FF6F00;">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
@@ -76,7 +76,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<h3 align="center">📈 Updated Activity:</h3>
+<!-- Updated Activity with Spooky Feel -->
+<h3 align="center" style="color: #FF6F00;">📈 Updated Activity:</h3>
 <table align="center">
   <tr>
     <td>
@@ -96,7 +97,8 @@
   </tr>
 </table>
 
-<h3 align="center">📌 Additional Stats:</h3>
+<!-- Trophy Section with Spooky Vibes -->
+<h3 align="center" style="color: #FF6F00;">📌 Dark Achievements:</h3>
 <table align="center">
   <tr>
     <td>
