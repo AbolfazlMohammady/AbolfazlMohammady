@@ -1,13 +1,6 @@
-<!-- Space-Themed GitHub Stats -->
-<h3 align="center">🌠 Galactic Stats:</h3>
+<!-- Cosmic Design Footer -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlMohammady&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlMohammady&theme=solarized_dark" alt="Profile Details" />
 </p>
 <!-- Animated Header -->
 <h1 align="center">🌟 Welcome to Abolfazl Mohammady's Profile 🌟</h1>
