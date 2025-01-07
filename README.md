@@ -1,3 +1,33 @@
+<!-- Animated Header -->
+<h1 align="center">🌟 Welcome to Abolfazl Mohammady's Profile 🌟</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abolfazl+Mohammady!;A+Passionate+Backend+Developer+from+Iran;Mastering+Django%2C+REST+API%2C+and+Python!;Always+Learning+and+Building+Amazing+Projects!;Let's+Collaborate+and+Innovate+Together!+%F0%9F%8C%8E" alt="Typing SVG">
+</p>
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="AbolfazlMohammady" />
+</p>
+
+<!-- Highlighted Fun Section -->
+<h3 align="center">🔥 Fun Fact About Me:</h3>
+<p align="center">🎮 I enjoy playing chess, solving puzzles, and diving into AI innovations 🚀</p>
+
+<!-- Cool Animated Contribution Graph -->
+<h3 align="center">📈 Contribution Activity:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<!-- Profile Highlights -->
+<h3 align="center">✨ What I'm Up To:</h3>
+<p align="center">
+  🌱 Mastering <strong>Advanced Django</strong> and <strong>REST API</strong> <br>
+  🔭 Building my latest <strong>Django Project</strong> <br>
+  💬 Ask me anything about <strong>Django</strong>, <strong>Python</strong>, and <strong>Backend Development</strong> <br>
+  📧 Reach me at: <strong>abolfazlking22@gmail.com</strong>
+</p>
+
 <h1 align="center">Hi 👋, I'm Abolfazl Mohammady</h1>
 <h3 align="center">A passionate Backend Developer from Iran</h3>
 <p align="center">
@@ -55,10 +85,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<h3 align="center">🕹️ Animated Contribution Graph:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+
 
 
 <h3 align="center">🛠️ Contribution Graph:</h3>
