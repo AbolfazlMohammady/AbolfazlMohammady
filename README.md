@@ -1,19 +1,3 @@
-<!-- Header with Fire Animation -->
-<div style="text-align: center; position: relative;">
-  <h1 style="font-size: 3rem; color: #FFA500; text-shadow: 0 0 20px rgba(255, 69, 0, 0.8), 0 0 30px rgba(255, 140, 0, 0.6);">
-    🔥 Welcome to Abolfazl Mohammady's Profile 🔥
-  </h1>
-  <div style="position: absolute; top: 100%; left: 50%; transform: translateX(-50%);">
-    <svg width="400" height="100">
-      <filter id="fire">
-        <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="3" result="noise"/>
-        <feDisplacementMap in="SourceGraphic" in2="noise" scale="30" xChannelSelector="R" yChannelSelector="G"/>
-      </filter>
-      <rect width="400" height="100" fill="orange" style="filter: url(#fire); mix-blend-mode: screen; opacity: 0.8;" />
-    </svg>
-  </div>
-</div>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abolfazl+Mohammady!;A+Passionate+Backend+Developer+from+Iran;Mastering+Django%2C+REST+API%2C+and+Python!;Always+Learning+and+Building+Amazing+Projects!;Let's+Collaborate+and+Innovate+Together!+%F0%9F%8C%8E" alt="Typing SVG">
@@ -21,34 +5,32 @@
 
 <!-- Animated Header -->
 <h1 align="center">🌟 Welcome to Abolfazl Mohammady's Profile 🌟</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abolfazl+Mohammady!;A+Passionate+Backend+Developer+from+Iran;Mastering+Django%2C+REST+API%2C+and+Python!;Always+Learning+and+Building+Amazing+Projects!;Let's+Collaborate+and+Innovate+Together!+%F0%9F%8C%8E" alt="Typing SVG">
-</p>
 
 <!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="AbolfazlMohammady" />
+  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- Fun Section -->
 <h3 align="center">🔥 Fun Fact About Me:</h3>
 <p align="center">🎮 I enjoy playing chess, solving puzzles, and diving into AI innovations 🚀</p>
 
-<!-- GitHub Contribution Snake -->
+<!-- Contribution Snake -->
 <h3 align="center">📈 Contribution Activity:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
-<!-- Profile Highlights -->
+<!-- Highlights -->
 <h3 align="center">✨ What I'm Up To:</h3>
 <p align="center">
   🌱 Mastering <strong>Advanced Django</strong> and <strong>REST API</strong> <br>
   🔭 Building my latest <strong>Django Project</strong> <br>
-  💬 Ask me anything about <strong>Django</strong>, <strong>Python</strong>, and <strong>Backend Development</strong> <br>
+  💬 Ask me about <strong>Django</strong>, <strong>Python</strong>, or <strong>Backend Development</strong> <br>
   📧 Reach me at: <strong>abolfazlking22@gmail.com</strong>
 </p>
 
+<!-- Connect With Me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/abolfazl-mohammadi-990bb3320" target="_blank">
@@ -59,67 +41,7 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<!-- Animated Header -->
-<h1 align="center">🌟 Welcome to Abolfazl Mohammady's Profile 🌟</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abolfazl+Mohammady!;A+Passionate+Backend+Developer+from+Iran;Mastering+Django%2C+REST+API%2C+and+Python!;Always+Learning+and+Building+Amazing+Projects!;Let's+Collaborate+and+Innovate+Together!+%F0%9F%8C%8E" alt="Typing SVG">
-</p>
-
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="AbolfazlMohammady" />
-</p>
-
-<!-- Highlighted Fun Section -->
-<h3 align="center">🔥 Fun Fact About Me:</h3>
-<p align="center">🎮 I enjoy playing chess, solving puzzles, and diving into AI innovations 🚀</p>
-
-<!-- Cool Animated Contribution Graph -->
-<h3 align="center">📈 Contribution Activity:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<!-- Profile Highlights -->
-<h3 align="center">✨ What I'm Up To:</h3>
-<p align="center">
-  🌱 Mastering <strong>Advanced Django</strong> and <strong>REST API</strong> <br>
-  🔭 Building my latest <strong>Django Project</strong> <br>
-  💬 Ask me anything about <strong>Django</strong>, <strong>Python</strong>, and <strong>Backend Development</strong> <br>
-  📧 Reach me at: <strong>abolfazlking22@gmail.com</strong>
-</p>
-
-<h3 align="center">A passionate Backend Developer from Iran</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+Python+Enthusiast+%7C+Lifelong+Learner;Backend+Skills:+Django%2C+REST+API%2C+SQL;Improving+Skills+Every+Day!" alt="Typing SVG">
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=blue&style=flat-square" alt="AbolfazlMohammady" />
-</p>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/abolfazl-mohammadi-990bb3320" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://instagram.com/abolfazl.mohammadyi" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" />
-  </a>
-</p>
-
+<!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -139,50 +61,17 @@
   </a>
 </p>
 
+<!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<h3 align="center">📈 Updated Activity:</h3>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlMohammady&theme=monokai" alt="Profile Details" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbolfazlMohammady&theme=monokai" alt="Most Used Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbolfazlMohammady&theme=monokai" alt="Repos Per Language" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbolfazlMohammady&theme=monokai" alt="Stats Card" />
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">📌 Additional Stats:</h3>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=darkhub&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophy" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbolfazlMohammady&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbolfazlMohammady&theme=monokai&utcOffset=3" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+<!-- Profile Footer -->
+<p align="center">🚀 Always learning, building, and innovating. Let's connect! 🌟</p>
