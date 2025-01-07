@@ -8,12 +8,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="AbolfazlMohammady" />
 </p>
-<!-- Space-Themed Wakatime Stats -->
-<h3 align="center">🛰️ Space-Time Productivity:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbolfazlMohammady&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
-</p>
 
+<!-- Galaxy Badge Section -->
+<h3 align="center">🌟 Galactic Achievements:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophy" />
+</p>
 <!-- Highlighted Fun Section -->
 <h3 align="center">🔥 Fun Fact About Me:</h3>
 <p align="center">🎮 I enjoy playing chess, solving puzzles, and diving into AI innovations 🚀</p>
