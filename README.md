@@ -9,11 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="AbolfazlMohammady" />
 </p>
 
-<!-- Galaxy Badge Section -->
-<h3 align="center">🌟 Galactic Achievements:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophy" />
-</p>
+
 <!-- Highlighted Fun Section -->
 <h3 align="center">🔥 Fun Fact About Me:</h3>
 <p align="center">🎮 I enjoy playing chess, solving puzzles, and diving into AI innovations 🚀</p>
@@ -102,14 +98,13 @@
   </tr>
 </table>
 
+<!-- Galaxy Badge Section -->
+<h3 align="center">🌟 Galactic Achievements:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophy" />
+</p>
 <h3 align="center">📌 Additional Stats:</h3>
 <table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=darkhub&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophy" />
-    </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbolfazlMohammady&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
     </td>
