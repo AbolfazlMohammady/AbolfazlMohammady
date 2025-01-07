@@ -35,15 +35,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=blue&style=flat-square" alt="AbolfazlMohammady" />
 </p>
-🔭 I’m currently working on My Django Project
 
-🌱 I’m currently mastering Advanced Django and REST API
-
-💬 Feel free to ask me about Django, Python, Backend Development
-
-📫 You can reach me at َabolfazlking22@gmail.com
-
-⚡ Fun fact: I enjoy playing chess and exploring AI innovations
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
