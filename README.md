@@ -1,4 +1,5 @@
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width='450px'  data-target="animated-image.originalImage">
+<img width="100%"
 
 <!-- Animated Header -->
 <h1 align="center">🌟 Welcome to Abolfazl Mohammady's Profile 🌟</h1>
