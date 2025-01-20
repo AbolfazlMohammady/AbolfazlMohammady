@@ -1,17 +1,18 @@
+
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abolfazl+Mohammady!;A+Passionate+Backend+Developer+from+Iran;Mastering+Django%2C+REST+API%2C+and+Python!;Always+Learning+and+Building+Amazing+Projects!;Let's+Collaborate+and+Innovate+Together!+%F0%9F%8C%8E" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width='450px'>
-  <img src="https://raw.githubusercontent.com/AbolfazlMohammady/some-project/images/hero-image.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width='450px'  data-target="animated-image.originalImage">
+<img width="100%"
 </p>
-
 <!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="AbolfazlMohammady" />
 </p>
+
 
 <!-- Highlighted Fun Section -->
 <h3 align="center">🔥 Fun Fact About Me:</h3>
@@ -32,28 +33,26 @@
   📧 Reach me at: <strong>abolfazlking22@gmail.com</strong>
 </p>
 
-<!-- Highlighting Recent Projects -->
-<h3 align="center">🚀 Recent Projects:</h3>
-<table align="center">
-  <tr>
-    <td><strong>Clothing App</strong><br>Innovative clothing management app. <a href="#">View Project</a></td>
-    <td><strong>Health App</strong><br>Unique health tracker. <a href="#">View Project</a></td>
-  </tr>
-</table>
-
-<!-- Galactic Achievements Section -->
+<!-- Galaxy Badge Section -->
 <h3 align="center">🌟 Galactic Achievements:</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophy" />
 </p>
-
 <!-- Cosmic Design Footer -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolfazlMohammady&theme=solarized_dark" alt="Profile Details" />
 </p>
 
-<!-- Connect With Me Section -->
-<h3 align="center">📞 Connect with me:</h3>
+<h3 align="center">A passionate Backend Developer from Iran</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+Python+Enthusiast+%7C+Lifelong+Learner;Backend+Skills:+Django%2C+REST+API%2C+SQL;Improving+Skills+Every+Day!" alt="Typing SVG">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=blue&style=flat-square" alt="AbolfazlMohammady" />
+</p>
+
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/abolfazl-mohammadi-990bb3320" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
@@ -63,8 +62,7 @@
   </a>
 </p>
 
-<!-- Languages and Tools Section -->
-<h3 align="center">💻 Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -83,7 +81,6 @@
   </a>
 </p>
 
-<!-- GitHub Stats Section -->
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
@@ -94,8 +91,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=monokai" alt="GitHub Stats" />
 </p>
-
-<!-- Updated Activity Section -->
 <h3 align="center">📈 Updated Activity:</h3>
 <table align="center">
   <tr>
@@ -108,10 +103,8 @@
   </tr>
 </table>
 
-<!-- Additional Stats Section -->
 <h3 align="center">📌 Additional Stats:</h3>
 <table align="center">
-  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbolfazlMohammady&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
     </td>
