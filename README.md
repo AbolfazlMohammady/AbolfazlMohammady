@@ -60,36 +60,45 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-</p>
+<h3 align="center">Languages and Tools:</h3>  
+<p align="center">  
+  <a href="https://www.python.org" target="_blank">  
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
+  </a>  
+  <a href="https://fastapi.tiangolo.com/" target="_blank">  
+    <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>  
+  </a>  
+  <a href="https://www.djangoproject.com/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>  
+  </a>  
+  <a href="https://www.postgresql.org" target="_blank">  
+    <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>  
+  </a>  
+  <a href="https://www.mysql.com/" target="_blank">  
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>  
+  </a>  
+  <a href="https://www.anaconda.com/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>  
+  </a>  
+  <a href="https://numpy.org/" target="_blank">  
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>  
+  </a>  
+  <a href="https://pandas.pydata.org/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>  
+  </a>  
+  <a href="https://scikit-learn.org/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>  
+  </a>  
+  <a href="https://www.selenium.dev/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>  
+  </a>  
+  <a href="https://requests.readthedocs.io/en/latest/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Requests-FF6F61?style=for-the-badge&logo=requests&logoColor=white" alt="Requests"/>  
+  </a>  
+  <a href="https://www.docker.com/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>  
+  </a>  
+</p>  
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
