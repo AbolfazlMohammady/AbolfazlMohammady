@@ -96,6 +96,12 @@
   <a href="https://www.docker.com/" target="_blank">  
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>  
   </a>  
+  <a href="https://www.postman.com/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Postman-FF6F61?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>  
+  </a>  
+  <a href="https://www.sql.org/" target="_blank">  
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>  
+  </a>  
 </p>    
 
 <h3 align="center">📊 GitHub Stats:</h3>
