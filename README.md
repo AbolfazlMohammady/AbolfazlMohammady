@@ -1,26 +1,25 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abolfazl+Mohammady" alt="Typing Animation"/>
-</p>
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abolfazl+Mohammady" alt="Typing Animation"/>  
+</p>  
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width='450px' alt="Animated Image"/>
-</p>
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width='300px' alt="Animated Image"/> <!-- Reduced width -->  
+</p>  
 
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views"/>
-</p>
+<!-- Profile Views Badge -->  
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=AbolfazlMohammady&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views"/>  
+</p>  
 
-<!-- Highlighted Fun Section -->
-<h3 align="center">🔥 Fun Fact About Me:</h3>
-<p align="center">🎮 I enjoy playing chess, solving puzzles, and diving into AI innovations 🚀</p>
+<!-- Highlighted Fun Section -->  
+<h3 align="center">🔥 Fun Fact About Me:</h3>  
+<p align="center">🎮 I enjoy playing chess, solving puzzles, and diving into AI innovations 🚀</p>  
 
-<!-- Cool Animated Contribution Graph -->
-<h3 align="center">📈 Contribution Activity:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<!-- Cool Animated Contribution Graph -->  
+<h3 align="center">📈 Contribution Activity:</h3>  
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="800"/> <!-- Ensuring it's adequately sized -->  
+</p>  
 
 <!-- Profile Highlights -->
 <h3 align="center">✨ What I'm Up To:</h3>
@@ -86,8 +85,8 @@
   <a href="https://pandas.pydata.org/" target="_blank">  
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>  
   </a>  
-  <a href="https://scikit-learn.org/" target="_blank">  
-    <img src="https://img.shields.io/badge/-Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>  
+  <a href="https://www.tensorflow.org/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>  
   </a>  
   <a href="https://www.selenium.dev/" target="_blank">  
     <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>  
@@ -98,7 +97,7 @@
   <a href="https://www.docker.com/" target="_blank">  
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>  
   </a>  
-</p>  
+</p>    
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
