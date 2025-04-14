@@ -32,8 +32,8 @@
 <!-- Galaxy Badge Section -->
 <h3 align="center">🌟 Galactic Achievements:</h3>  
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6&no-frame=true&no-bg=true&rank=multi-language&rank=accomplished&rank=developer&rank=pragmatic&rank=questioner" alt="GitHub Trophy"/>  
-</p>  
+  <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophy"/>  
+  <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=1&no-frame=true&no-bg=true&rank=multi-language" alt="Multi-language Trophy"/>  
 
 <!-- Cosmic Design Footer -->
 <p align="center">
