@@ -84,6 +84,9 @@
   <a href="https://pandas.pydata.org/" target="_blank">  
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>  
   </a>  
+  <a href="https://matplotlib.org/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Matplotlib-003B57?style=for-the-badge&logo= matplotlib&logoColor=white" alt="Matplotlib"/>  
+  </a>  
   <a href="https://www.tensorflow.org/" target="_blank">  
     <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>  
   </a>  
@@ -102,8 +105,10 @@
   <a href="https://www.sql.org/" target="_blank">  
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>  
   </a>  
-</p>    
-
+  <a href="https://www.mongodb.com/" target="_blank">  
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>  
+  </a>  
+</p>  
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
