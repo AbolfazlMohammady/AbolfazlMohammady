@@ -19,6 +19,7 @@
 <h3 align="center">📈 Contribution Activity:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 <!-- Profile Highlights -->
 <h3 align="center">✨ What I'm Up To:</h3>
@@ -32,7 +33,7 @@
 <!-- Galaxy Badge Section -->
 <h3 align="center">🌟 Galactic Achievements:</h3>  
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6&no-frame=true&no-bg=true&rank=multi-language&rank=accomplished&rank=developer" alt="GitHub Trophy"/>  
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6&no-frame=true&no-bg=true" alt="GitHub Trophy"/>  
 </p>  
 
 <!-- Cosmic Design Footer -->
@@ -85,7 +86,7 @@
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>  
   </a>  
   <a href="https://matplotlib.org/" target="_blank">  
-    <img src="https://img.shields.io/badge/-Matplotlib-003B57?style=for-the-badge&logo= matplotlib&logoColor=white" alt="Matplotlib"/>  
+    <img src="https://img.shields.io/badge/-Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>  
   </a>  
   <a href="https://www.tensorflow.org/" target="_blank">  
     <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>  
@@ -114,10 +115,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlMohammady&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=monokai" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=AbolfazlMohammady&show_icons=true&locale=en&layout=compact&theme=monokai" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=monokai" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=AbolfazlMohammady&show_icons=true&locale=en&theme=monokai" alt="GitHub Stats"/>
 </p>
 
 <h3 align="center">📈 Updated Activity:</h3>
@@ -136,7 +137,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbolfazlMohammady&layout=compact&theme=tokyonight" alt="Wakatime Stats"/>
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=AbolfazlMohammady&layout=compact&theme=tokyonight" alt="Wakatime Stats"/>
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbolfazlMohammady&theme=monokai&utcOffset=3" alt="Productive Time"/>
