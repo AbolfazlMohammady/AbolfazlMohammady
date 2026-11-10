@@ -33,7 +33,7 @@
 <!-- Galaxy Badge Section -->
 <h3 align="center">🌟 Galactic Achievements:</h3>  
 <p align="center">  
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=AbolfazlMohammady&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6&no-frame=true&no-bg=true" alt="GitHub Trophy"/>  
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://raw.githubusercontent.com/AbolfazlMohammady/AbolfazlMohammady/main/assets/github-trophy.svg" alt="GitHub Trophy" /></a>  
 </p>  
 
 <!-- Cosmic Design Footer -->
